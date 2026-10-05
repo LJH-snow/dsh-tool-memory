@@ -1,0 +1,6 @@
+# Example dsh composition config for dsh-tool-memory.
+# The graph is stored locally as JSONL; no credentials are required.
+
+- name: 'github:LJH-snow/dsh-tool-memory'
+  config:
+    # storagePath: '~/.dsh/memory.jsonl'
